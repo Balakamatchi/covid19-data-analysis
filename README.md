@@ -2,7 +2,7 @@ COVID-19 Data Analysis
 
 This is a simple mini-project done as part of my Data Science learning journey.
 
-Project Overview
+Project Overview:
 This project analyzes a COVID-19 dataset using Python. The goal is to understand the spread of the virus by visualizing the number of cases, recoveries, and deaths in different countries.
 
 Tools Used
