@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 # Load dataset from CSV file
-df = pd.read_csv("/content/Covid 19.csv")
+df = pd.read_csv("C:\Home\Harini\Projects\Datasets\Covid 19.csv")
 country_summary = df.groupby("Country")[["Cumulative_cases", "Cumulative_death"]].max().reset_index()
 
 # Sort by confirmed cases (Top 10 countries)
